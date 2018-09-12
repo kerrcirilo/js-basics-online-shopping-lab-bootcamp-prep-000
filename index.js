@@ -19,8 +19,11 @@ function addToCart(item) {
 }
 
 function viewCart() {
-
   // write your code here
+  if (i=0, cart = 0;
+  return "Your shopping cart is empty."
+  
+  
 }
 
 function total() {
