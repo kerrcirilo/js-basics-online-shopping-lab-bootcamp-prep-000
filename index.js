@@ -20,9 +20,8 @@ function addToCart(item) {
 
 function viewCart() {
   // write your code here
-  for (var i=0, i>0, i++);
-  if c = i
-  return `In your cart, you have ${itemName} at ${itemPrice}
+  if c  i;
+  return `In your cart, you have ${itemName} at ${itemPrice},`
   else =
   return "Your shopping cart is empty."
   
