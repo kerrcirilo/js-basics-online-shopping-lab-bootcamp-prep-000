@@ -20,7 +20,7 @@ function addToCart(item) {
 
 function viewCart() {
   // write your code here
-  for (i=0, i<0, cart = 0;
+  for (var i=0, i<0, cart = 0;
   
   else =
   return "Your shopping cart is empty."
